@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter application.
+World Time is a simple app that shows the time of the location you choose(This app was created for training pourposes).
 
 ## Getting Started
 
